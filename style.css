@@ -1,0 +1,42 @@
+.fatherDiv{
+    display: flex;
+    flex-wrap: wrap;
+    width: 680px;
+    justify-content: center;
+}
+
+.grid-item{
+    background-color: gray;
+    height: 40px;
+    width: 40px;
+    border: 1px solid #ccc ;
+}
+
+.grid-item:hover{
+    background-color: purple;
+}
+
+.rootDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    gap: 20px;
+}
+
+.gridbtn{
+    height: 40px;
+    width: 140px;
+}
+
+.newFatherDiv{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.butDiv{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}

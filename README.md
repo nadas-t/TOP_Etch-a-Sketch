@@ -38,7 +38,7 @@ Uma grade de quadrados (pixels) é renderizada na tela, permitindo ao usuário d
 
 📸 Preview
 
-(Incluir aqui um screenshot do projeto)
+![imagem do projeto](image.png)
 
 🧠 Desafios
 
